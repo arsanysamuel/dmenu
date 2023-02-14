@@ -1,6 +1,6 @@
 # **dmenu** - dynamic menu
 
-This is my build of the [suckless dmenu](https://tools.suckless.org/dmenu/), including extra configuration and applied patches.
+This is my build of the [suckless dmenu](https://tools.suckless.org/dmenu/) version 5.2, including extra configuration and applied patches.
 
 dmenu is an efficient dynamic menu for X, usually used with [dwm](https://dwm.suckless.org/).
 
